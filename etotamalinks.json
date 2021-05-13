@@ -11,7 +11,7 @@
       "groups": {
         "/a/nonymous": "/proxy/api/imgur/chapter/EiIUJAz/"
       },
-      "last_updated": "1616368746"
+      "last_updated": "1620892274"
     },
     "8": {
       "title": "Chapter 8",
@@ -19,7 +19,7 @@
       "groups": {
         "/a/nonymous": "/proxy/api/imgur/chapter/rKKEeDc/"
       },
-      "last_updated": "1616368746"
+      "last_updated": "1620892274"
     },
     "9": {
       "title": "Chapter 9",
@@ -27,15 +27,31 @@
       "groups": {
         "/a/nonymous": "/proxy/api/imgur/chapter/CjE4eL0/"
       },
-      "last_updated": "1616368746"
+      "last_updated": "1620892274"
     },
     "10": {
-      "title": "Chapter 10",
+      "title": "Chapter 10 + Vol 1 Extras",
       "volume": "1",
       "groups": {
         "/a/nonymous": "/proxy/api/imgur/chapter/CPamXv5/"
       },
-      "last_updated": "1616368746"
+      "last_updated": "1620892274"
+    },
+    "11": {
+      "title": "Chapter 11",
+      "volume": "2",
+      "groups": {
+        "/a/nonymous": "/proxy/api/imgur/chapter/axuV0iW/"
+      },
+      "last_updated": "1620892274"
+    },
+    "12": {
+      "title": "Chapter 12",
+      "volume": "2",
+      "groups": {
+        "/a/nonymous": "/proxy/api/imgur/chapter/5YFrwok/"
+      },
+      "last_updated": "1620892274"
     }
   }
 }
