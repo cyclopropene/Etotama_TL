@@ -12,6 +12,30 @@
         "/a/nonymous": "/proxy/api/imgur/chapter/EiIUJAz/"
       },
       "last_updated": "1616368746"
+    },
+    "8": {
+      "title": "Chapter 8",
+      "volume": "1",
+      "groups": {
+        "/a/nonymous": "/proxy/api/imgur/chapter/rKKEeDc/"
+      },
+      "last_updated": "1616368746"
+    },
+    "9": {
+      "title": "Chapter 9",
+      "volume": "1",
+      "groups": {
+        "/a/nonymous": "/proxy/api/imgur/chapter/CjE4eL0/"
+      },
+      "last_updated": "1616368746"
+    },
+    "10": {
+      "title": "Chapter 10",
+      "volume": "1",
+      "groups": {
+        "/a/nonymous": "/proxy/api/imgur/chapter/CPamXv5/"
+      },
+      "last_updated": "1616368746"
     }
   }
 }
